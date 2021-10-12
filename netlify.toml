@@ -3,4 +3,4 @@
   publish = "build/"
 
 [functions]
-  directory = "functions-internal"
+  directory = "functions"

@@ -13,7 +13,5 @@
     "svelte-paginate": "0.0.1"
   },
   "type": "module",
-  "dependencies": {
-    "next": "^11.1.2"
-  }
+  "dependencies": {}
 }
